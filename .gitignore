@@ -1,0 +1,12 @@
+﻿# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+data/
+
+# ML models (DO NOT COMMIT)
+models/
